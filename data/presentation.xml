@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Branch1" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{3712BFBD-DBAF-4AD2-8B93-8D9809629A33}">
+<presentation title="Branch1" width="1280.0000000" height="720.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{953D63A5-9EF3-46AA-9580-8C53A629CD60}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,48 +137,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="1174" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-		</slide>
-		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="2422" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>You are the pharmacist sent to cover a surgical ward. You have never visited there before.</text>
-		</slide>
-		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="2528" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>You are the pharmacist sent to cover a surgical ward. You have never visited there before.</text>
-		</slide>
-		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="3624" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="324681" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -193,78 +152,7 @@
 			<text>You are the pharmacist sent to cover a surgical ward. You have never visited there before.
 You have a ward patient summary and are about to visit Mrs. W, who is one of the new patients. You plan to carry out a Medicines Reconciliation for Mrs. W.</text>
 		</slide>
-		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="1301" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-		</slide>
-		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="2532" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>Mrs. W is 67 years old and was admitted to hospital for emergency surgery for a hip replacement after a fall</text>
-		</slide>
-		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="2630" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>Mrs. W is 67 years old and was admitted to hospital for emergency surgery for a hip replacement after a fall</text>
-		</slide>
-		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="3671" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>Mrs. W is 67 years old and was admitted to hospital for emergency surgery for a hip replacement after a fall
-She has a past medical history of hypertension, breast cancer (currently in remission) and atrial fibrillation.</text>
-		</slide>
-		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="7818" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>Mrs. W is 67 years old and was admitted to hospital for emergency surgery for a hip replacement after a fall
-She has a past medical history of hypertension, breast cancer (currently in remission) and atrial fibrillation.</text>
-		</slide>
-		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="8730" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="318809" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -280,5 +168,55 @@ She has a past medical history of hypertension, breast cancer (currently in remi
 She has a past medical history of hypertension, breast cancer (currently in remission) and atrial fibrillation.
 She is eating and drinking normally.</text>
 		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="265278" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Based on the information given, decide on your approach to the patient.
+Remember, you want to engage with her in order to establish whether there are any issues with her medications, or other factors which may affect her taking her medications.</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="118793" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>There are 5 (?3/4) possible endings, but only 2 are what you would want.
+Can you decide upon the best approach? Be prepared to discuss reasons for your choices.
+You knock and enter Mrs W’s room.</text>
+		</slide>
+		<quiz index="4" title="" titleNormalized="" src="quiz1.swf" size="1013871" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="" embedded="0">
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<quizBranching allowQuizInterruption="1" restartFailedQuiz="0" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
 	</slides>
 </presentation>
